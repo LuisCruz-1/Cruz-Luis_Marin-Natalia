@@ -1,0 +1,6 @@
+[2024-08-12 20:15:50] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 20:15:50] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 20:15:50] [ INFO ] [DaoMemoriaOdontologo:25] [listarTodos] Odontólogos listados de memoria: 2
+[2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:62] [listarTodos] Odontólogos listados: 2
