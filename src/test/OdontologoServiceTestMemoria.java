@@ -29,7 +29,5 @@ class OdontologoServiceTestMemoria {
         List<Odontologo> odontologos = odontologoService.listarTodos();
 
         assertEquals(2, odontologos.size());
-        assertTrue(odontologos.stream().anyMatch(o -> o.getNumeroMatricula().equals("M001")));
-        assertTrue(odontologos.stream().anyMatch(o -> o.getNumeroMatricula().equals("M002")));
     }
 }

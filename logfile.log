@@ -4,3 +4,40 @@
 [2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
 [2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
 [2024-08-12 20:16:10] [ INFO ] [DaoH2Odontologo:62] [listarTodos] Odontólogos listados: 2
+[2024-08-12 20:59:06] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 20:59:06] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 20:59:06] [ INFO ] [DaoMemoriaOdontologo:25] [listarTodos] Odontólogos listados de memoria: 2
+[2024-08-12 20:59:48] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 20:59:48] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 20:59:48] [ INFO ] [DaoMemoriaOdontologo:25] [listarTodos] Odontólogos listados de memoria: 2
+[2024-08-12 21:00:29] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=3, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:00:29] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=4, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:00:29] [ INFO ] [DaoH2Odontologo:62] [listarTodos] Odontólogos listados: 4
+[2024-08-12 21:02:51] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:02:51] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:02:51] [ INFO ] [DaoMemoriaOdontologo:25] [listarTodos] Odontólogos listados de memoria: 2
+[2024-08-12 21:02:51] [ INFO ] [DaoMemoriaOdontologo:26] [listarTodos] Contenido de la lista de odontólogos: [Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}, Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}]
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=5, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=6, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:62] [listarTodos] Odontólogos listados: 6
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=3, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=4, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=5, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:08:19] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=6, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:08:44] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:08:44] [ INFO ] [DaoMemoriaOdontologo:19] [guardar] Odontólogo guardado en memoria: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:08:44] [ INFO ] [DaoMemoriaOdontologo:25] [listarTodos] Odontólogos listados de memoria: 2
+[2024-08-12 21:08:44] [ INFO ] [DaoMemoriaOdontologo:26] [listarTodos] Contenido de la lista de odontólogos: [Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}, Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}]
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=7, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:30] [guardar] Odontólogo guardado: Odontologo{id=8, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:62] [listarTodos] Odontólogos listados: 8
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=1, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=2, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=3, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=4, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=5, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=6, numeroMatricula='M002', nombre='María', apellido='Gómez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=7, numeroMatricula='M001', nombre='Juan', apellido='Pérez'}
+[2024-08-12 21:09:06] [ INFO ] [DaoH2Odontologo:65] [listarTodos] Odontólogo: Odontologo{id=8, numeroMatricula='M002', nombre='María', apellido='Gómez'}

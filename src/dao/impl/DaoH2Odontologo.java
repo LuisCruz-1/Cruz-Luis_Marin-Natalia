@@ -60,6 +60,11 @@ public class DaoH2Odontologo implements IDao<Odontologo> {
                 odontologos.add(odontologo);
             }
             logger.info("Odontólogos listados: " + odontologos.size());
+
+            for (Odontologo odontologo : odontologos) {
+                logger.info("Odontólogo: " + odontologo.toString());
+            }
+
             return odontologos;
         } catch (Exception e) {
             logger.error("Error al listar odontólogos: " + e.getMessage());

@@ -23,6 +23,7 @@ public class DaoMemoriaOdontologo implements IDao<Odontologo> {
     @Override
     public List<Odontologo> listarTodos() {
         logger.info("Odontólogos listados de memoria: " + odontologos.size());
+        logger.info("Contenido de la lista de odontólogos: " + odontologos.toString());
         return new ArrayList<>(odontologos);
     }
 }
